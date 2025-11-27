@@ -17,7 +17,7 @@ export default function App() {
   const [error, setError] = useState(null);
 
   // Substitua pela sua chave da OpenWeatherMap
-  const API_KEY = 'SUA_CHAVE_DE_API_AQUI'; 
+  const API_KEY = '5e1add9610a779d461d69ecb651eceae'; 
 
   const fetchWeather = async () => {
     if (!city) return;
