@@ -56,10 +56,10 @@ Você precisa ter o [Node.js](https://nodejs.org/) instalado e o aplicativo **Ex
    ```bash
     npm install
 
-4.Execute o projeto:
-  ```bash
-  npx expo start
-  ```
+4. Execute o projeto:
+   ```bash
+   npx expo start
+   ```
 
 5. Leia o QR Code exibido no terminal com o app Expo Go.
 
