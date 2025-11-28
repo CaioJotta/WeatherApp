@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PrevisaoTempoApp",
-    "slug": "PrevisaoTempoApp",
+    "name": "Previsão do Tempo",
+    "slug": "Previsao_do_Tempo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
