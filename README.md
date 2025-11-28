@@ -46,3 +46,26 @@ Você precisa ter o [Node.js](https://nodejs.org/) instalado e o aplicativo **Ex
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/CaioJotta/WeatherApp.git](https://github.com/CaioJotta/WeatherApp.git)
+   Entre na pasta do projeto:
+
+2. Entre na pasta do projeto:
+  cd WeatherApp
+
+3. Instale as dependências:
+  npm install
+
+4.Execute o projeto:
+  npx expo start
+
+5. Leia o QR Code exibido no terminal com o app Expo Go.
+
+🔑 Configuração da API
+O projeto utiliza uma chave de API da OpenWeatherMap. Para fins de teste, uma chave já consta no código (App.js). Caso ela expire ou você queira usar a sua própria:
+
+Cadastre-se em openweathermap.org.
+
+Gere uma chave gratuita.
+
+No arquivo App.js, substitua o valor da variável API_KEY.
+
+<div align="center"> <sub>Desenvolvido por Caio Jotta</sub> </div>
